@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a dedicated Data Analyst with a strong background in Mathematics and Data Science. My passion for data analytics originates from my keen interest in sports, notably Football ⚽️ and Formula 1 🏎️, where I have observed firsthand the transformative power of data-driven decision-making. I am deeply intrigued by the pivotal role data plays in shaping strategic outcomes across various domains. During my leisure time, I engage in listening to music and reading.
+I am a dedicated Data Scientist with a strong background in Mathematics and Data Science. My passion for data analytics originates from my keen interest in sports, notably Football ⚽️ and Formula 1 🏎️, where I have observed firsthand the transformative power of data-driven decision-making. I am deeply intrigued by the pivotal role data plays in shaping strategic outcomes across various domains. During my leisure time, I engage in listening to music and reading.
 
 
 ### Skills
